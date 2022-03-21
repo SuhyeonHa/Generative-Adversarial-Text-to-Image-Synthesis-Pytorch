@@ -1,7 +1,7 @@
 # Generative-Adversarial-Text-to-Image-Synthesis-Pytorch
 Generative Adversarial Text-to-Image Synthesis ICML 2016 Implementation
 
-<img src="images/network.png" height="100"></img>
+<img src="images/network.png" height="200"></img>
 
 ## Example Results
 |Input Text|Result|
