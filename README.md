@@ -38,7 +38,7 @@ I used hdf5 a file of [aelnouby](https://github.com/aelnouby/Text-to-Image-Synth
 train.py --dataset_path D:\PycharmProjects\Generative-Adversarial-Text-to-Image-Synthesis-Pytorch/birds.hdf5
 ```
 #### Use a Pre-trained Model
-- Download a Pre-trained generator [here](https://drive.google.com/file/d/1txG-cUDC0cE48cward2DOlmvRP_wlXpG/view?usp=sharing)
+- Download a Pre-trained generator [here]https://drive.google.com/file/d/1u2SOtu63eAdTlW8KyEGVHKOvNwuWl5RE/view?usp=sharing)
 ```bash
 test.py --isTraining False --model_dir D:\PycharmProjects\Generative-Adversarial-Text-to-Image-Synthesis-Pytorch\checkpoints/
 ```
